@@ -45,3 +45,21 @@ Write a small application that fetches data from an API (we recommend [this one]
 If you do not have time for a take-home assignment, let us know! In this case, we would try to implement parts of it live in a technical interview.
 
 If you have a project to which you contribute regularly, we can also discuss that. We are interested in your work.
+
+## How to run the project
+
+Navigate to the project repository and run the following code
+
+`npm install`
+
+Once npm install completes:
+
+How to run the server: `nx run backend:serve`
+
+How to run the frontend: `nx run frontend:serve`
+
+
+
+
+
+
